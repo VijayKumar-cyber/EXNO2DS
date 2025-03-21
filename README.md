@@ -55,4 +55,4 @@ df.describe()
 >>
 
 # RESULT
-        <<INCLUDE YOUR RESULT HERE>>
+        Thus, the Exploratory Data Analysis on the given data set was performed successfully.
